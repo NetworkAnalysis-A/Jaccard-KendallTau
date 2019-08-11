@@ -3,4 +3,4 @@
 #### Leuphana Universität Lüneburg
 
 ### Working Title: A comparison of differentrobustness measures in network analysis
-#### Authors: Laura Oberscheid, Eda D. Özdemir, Tim R. Schleiche
+#### Authors: Laura Oberscheid, Eda D. Özdemir, Tim R. Schleicher
